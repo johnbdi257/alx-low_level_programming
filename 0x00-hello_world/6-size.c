@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * hahhahahah nukuri biratwenza
+ * main - hahhahahah nukuri biratwenza
  *
  * Return: hahhaha nukuri uzi ingene vyoroshe kwl
  */
