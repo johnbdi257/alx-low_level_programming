@@ -1,10 +1,10 @@
 #include <stdio.h>
-#include <stdlib.h>
-
-
-/*Alloo murakomeye hahahahaha ndabafuse mwese ntavyo muzi hahahahaha*/
- int main()
- {
-     printf("with proper grammar, but the outcome is a piece of art,\n");
-     return 0;
- }
+/**
+ * Description: main - Hahahhahahahah shaa muranyeguye kweri.
+ * Return: 0 hahahahhaha nukuri muranyishe nugutwenga dapfuye wallay.
+ */
+int main(void)
+{
+printf("with proper grammar, but the outcome is a piece of art,\n");
+return (0);
+}
