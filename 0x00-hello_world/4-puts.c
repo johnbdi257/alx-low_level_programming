@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * Description: main - Prints out a string to stdout.
- * Return: 0 if success.
+ * Description: main - hahahahhaa muranyishe nagatwengo kweri.
+ * Return: 0 hahahahha muratwenza kweli.
  */
 int main(void)
 {
