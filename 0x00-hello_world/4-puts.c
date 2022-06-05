@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
- * HAHAHAHA  NDABAFUSE
+ * HAHAHAHA  NDABAFUSE.
  * NTAVYO MUZI MWESE HAHAHAHA.
+ *MURAKOZE KUNTESHA UMWANYA.
  */
 int main(void)
 {
