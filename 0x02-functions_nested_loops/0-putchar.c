@@ -1,11 +1,11 @@
-#include "holberton.h"
+#include "main.c"
 /**
  * main - prints the string "Holberton" from a character array.
  * Return: 0 on success.
  */
 int main(void)
 {
-	char c[Holberton] = "Holberton";
+	char c[] = "Holberton";
 	int i;
 
 	for (i = 0; i < 9; i++)
